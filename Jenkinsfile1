@@ -16,7 +16,7 @@ pipeline {
                   //your repo branch
                   git branch: 'main',
                   //your public repo
-                  url: 'https://github.com/bzzlab/M324_trafficlight-api-demo.git'
+                  url: 'https://github.com/Giant-Diagram/backendM324.git'
            }
          }
     }
